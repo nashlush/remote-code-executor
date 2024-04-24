@@ -1,0 +1,52 @@
+.editor-box-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.panel {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.panel h2 {
+  margin-top: 0;
+}
+
+.editor {
+  width: 65%; /* Editor occupies 65% of the width */
+}
+
+.language-dropdown {
+  margin-top: 10px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+.submit-button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.input-textarea {
+  width: calc(35% - 40px); /* Input area occupies the remaining width */
+  height: 100px;
+  resize: vertical;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.output-textarea {
+  width: calc(100% - 40px); /* Output area occupies the full width */
+  height: 100px;
+  resize: vertical;
+  padding: 10px;
+  font-size: 16px;
+}

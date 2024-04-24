@@ -1,0 +1,118 @@
+2024-04-23 13:51:04,501 - __main__ - INFO - ['Avinash', '23']
+2024-04-23 13:51:04,502 - __main__ - INFO - <class 'list'>
+2024-04-23 13:54:05,449 - __main__ - INFO - ['Avinash', '23']
+2024-04-23 13:54:05,449 - __main__ - INFO - <class 'list'>
+2024-04-23 13:54:08,175 - __main__ - INFO - 0
+2024-04-23 13:54:10,712 - __main__ - INFO - Java code executed successfully:
+2024-04-23 13:54:10,712 - __main__ - INFO - Hello All of y'all motherfuckers!!
+Hello Avinash 23
+2024-04-23 13:54:51,500 - __main__ - INFO - ['Avinash', '23']
+2024-04-23 13:54:51,500 - __main__ - INFO - <class 'list'>
+2024-04-23 13:54:53,807 - __main__ - INFO - 0
+2024-04-23 13:54:55,884 - __main__ - INFO - Java code executed successfully:
+2024-04-23 13:54:55,885 - __main__ - INFO - Hello All of y'all motherfuckers!!
+Hello Avinash 23
+2024-04-23 13:54:55,895 - __main__ - INFO - Hello All of y'all motherfuckers!!
+Hello Avinash 23
+2024-04-23 15:16:19,603 - __main__ - INFO - ['Avinash', '23']
+2024-04-23 15:16:19,603 - __main__ - INFO - <class 'list'>
+2024-04-23 15:16:20,451 - __main__ - INFO - 0
+2024-04-23 15:16:21,987 - __main__ - INFO - Java code executed successfully:
+2024-04-23 15:16:21,988 - __main__ - INFO - Hello All of y'all motherfuckers!!
+Hello Avinash 23
+2024-04-23 15:16:21,990 - __main__ - INFO - Hello All of y'all motherfuckers!!
+Hello Avinash 23
+2024-04-23 15:17:53,594 - __main__ - INFO - ['Avinash', '23']
+2024-04-23 15:17:53,594 - __main__ - INFO - <class 'list'>
+2024-04-23 15:17:54,713 - __main__ - INFO - 0
+2024-04-23 15:17:56,403 - __main__ - INFO - Java code executed successfully:
+2024-04-23 15:17:56,404 - __main__ - INFO - Hello All of y'all motherfuckers!!
+Hello Avinash 23
+2024-04-23 15:17:56,405 - __main__ - INFO - Hello All of y'all motherfuckers!!
+Hello Avinash 23
+2024-04-23 15:21:27,430 - __main__ - INFO - ['42']
+2024-04-23 15:21:27,431 - __main__ - INFO - <class 'list'>
+2024-04-23 15:21:28,103 - __main__ - INFO - 0
+2024-04-23 15:21:28,789 - __main__ - INFO - Java code executed successfully:
+2024-04-23 15:21:28,789 - __main__ - INFO - Number you have entered is: 42
+Number is even
+
+2024-04-23 15:21:28,790 - __main__ - INFO - Number you have entered is: 42
+Number is even
+
+2024-04-23 15:21:53,420 - __main__ - INFO - ['43']
+2024-04-23 15:21:53,421 - __main__ - INFO - <class 'list'>
+2024-04-23 15:21:54,998 - __main__ - INFO - 0
+2024-04-23 15:21:56,924 - __main__ - INFO - Java code executed successfully:
+2024-04-23 15:21:56,924 - __main__ - INFO - Number you have entered is: 43
+Number is odd!
+
+2024-04-23 15:21:56,925 - __main__ - INFO - Number you have entered is: 43
+Number is odd!
+
+2024-04-23 15:23:08,072 - __main__ - INFO - ['43']
+2024-04-23 15:23:08,072 - __main__ - INFO - <class 'list'>
+2024-04-23 15:23:08,529 - __main__ - INFO - 1
+2024-04-23 15:23:08,529 - __main__ - ERROR - Error compiling java code
+2024-04-23 15:23:08,529 - __main__ - ERROR - Main.java:9: error: ';' expected
+        Scanner scanner = new Scanner(System.in)
+                                                ^
+1 error
+
+2024-04-23 15:23:08,529 - __main__ - INFO - Main.java:9: error: ';' expected
+        Scanner scanner = new Scanner(System.in)
+                                                ^
+1 error
+
+2024-04-23 15:23:40,514 - __main__ - INFO - ['43']
+2024-04-23 15:23:40,515 - __main__ - INFO - <class 'list'>
+2024-04-23 15:23:41,311 - __main__ - INFO - 1
+2024-04-23 15:23:41,311 - __main__ - ERROR - Error compiling java code
+2024-04-23 15:23:41,312 - __main__ - ERROR - Main.java:9: error: ';' expected
+        Scanner scanner = new Scanner(System.in)
+                                                ^
+1 error
+
+2024-04-23 15:23:41,313 - __main__ - INFO - Main.java:9: error: ';' expected
+        Scanner scanner = new Scanner(System.in)
+                                                ^
+1 error
+
+2024-04-23 15:24:04,918 - __main__ - INFO - ['43']
+2024-04-23 15:24:04,918 - __main__ - INFO - <class 'list'>
+2024-04-23 15:24:06,777 - __main__ - INFO - 1
+2024-04-23 15:24:06,778 - __main__ - ERROR - Error compiling java code
+2024-04-23 15:24:06,778 - __main__ - ERROR - Main.java:5: error: class Mai is public, should be declared in a file named Mai.java
+public class Mai {
+       ^
+1 error
+
+2024-04-23 15:24:06,779 - __main__ - INFO - Main.java:5: error: class Mai is public, should be declared in a file named Mai.java
+public class Mai {
+       ^
+1 error
+
+2024-04-23 19:04:45,084 - __main__ - INFO - ['']
+2024-04-23 19:04:45,086 - __main__ - INFO - <class 'list'>
+2024-04-23 19:04:46,072 - __main__ - INFO - 0
+2024-04-23 19:04:47,101 - __main__ - ERROR - Error running java code:
+2024-04-23 19:04:47,102 - __main__ - ERROR - error: no class declared in source file
+
+2024-04-23 19:04:47,103 - __main__ - INFO - error: no class declared in source file
+
+2024-04-24 11:56:15,556 - __main__ - INFO - ['']
+2024-04-24 11:56:15,593 - __main__ - INFO - <class 'list'>
+2024-04-24 11:56:23,572 - __main__ - INFO - 0
+2024-04-24 11:56:32,785 - __main__ - INFO - Java code executed successfully:
+2024-04-24 11:56:32,786 - __main__ - INFO - Hello There!
+
+2024-04-24 11:56:32,820 - __main__ - INFO - Hello There!
+
+2024-04-24 12:03:22,152 - __main__ - INFO - ['']
+2024-04-24 12:03:22,154 - __main__ - INFO - <class 'list'>
+2024-04-24 12:03:26,729 - __main__ - INFO - 0
+2024-04-24 12:03:31,689 - __main__ - INFO - Java code executed successfully:
+2024-04-24 12:03:31,690 - __main__ - INFO - Hey There!
+
+2024-04-24 12:03:31,692 - __main__ - INFO - Hey There!
+
